@@ -1,2 +1,2 @@
 # VS-team
-project
+this project is to show that myself and yourself can handle github.
